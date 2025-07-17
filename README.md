@@ -1,46 +1,52 @@
-📊 Shopify Sales & Customer Funnel Dashboard
-I have developed an interactive Power BI dashboard that provides a comprehensive analysis of Shopify sales performance, customer behavior, and product trends. This report helps stakeholders understand key business metrics and make data-driven decisions effectively.
+# Shopify Sales & Customer Funnel Dashboard
 
-🔍 Dashboard Overview
-The Shopify Sales & Customer Funnel Dashboard visualizes critical KPIs including:
+This project presents an **interactive Power BI dashboard** that analyzes Shopify store sales, customer behavior, product performance, and regional trends. The goal is to provide a clear, actionable view of business performance using KPIs and drillthrough capabilities.
 
-Net Sales: $4.18 million
+## Key Features
 
-Total Quantity Sold: 7,534 units
+- ✅ Net Sales Overview: $4.18 million across 7,534 orders
+- ✅ Average Order Value: $562.6
+- ✅ Total Customers: 4,431
+- ✅ Repeat Customer Rate: 46%
+- ✅ Interactive Drillthrough Pages
+- ✅ Visual breakdowns by city, province, product, gateway, date, and time
 
-Average Order Value: $562.6
+---
 
-Total Customers: 4,431
+## Dashboard Highlights
 
-Repeat Customers: 2,039 (46% repeat rate)
+### 1. **Sales & Customer KPIs**
+Track essential metrics:
+- **Net Sales**
+- **Total Quantity Sold**
+- **Average Order Value**
+- **Customer Lifetime Value (LTV)**
+- **Purchase Frequency**
+- **Repeat vs One-time Customers**
 
-These insights help analyze the effectiveness of customer acquisition and retention, as well as the overall revenue flow.
+### 2. **Regional Performance**
+Explore **Net Sales by Province and City**. Understand where your customers are coming from and which regions generate the most revenue.
 
-🌍 Regional Performance
-The dashboard displays Net Sales by Province and City, enabling localized performance evaluation. Cities such as New York City, Los Angeles, Dallas, and Houston showed high sales activity, guiding regional marketing and inventory strategies.
+### 3. **Time Series Analysis**
+- **Sales by Day & Hour**
+- Identify peak shopping times for better marketing and operational planning.
 
-🕒 Time-Based Sales Trends
-It includes detailed sales trends by day and hour, allowing businesses to identify peak shopping hours and high-performing sales days. This insight supports better campaign planning and staffing decisions.
+### 4. **Product Category Breakdown**
+- Visualize top-selling categories like **Running Shoes**, **Tennis Shoes**, **Walking Shoes**, and more.
+- Discover low-performing products for inventory optimization.
 
-💳 Payment Gateway Insights
-Different payment methods are broken down in terms of total sales. Shopify Payments leads with the majority share (~58%), followed by PayPal, Amazon Payments, and Gift Cards. Understanding gateway performance helps assess customer preferences and optimize checkout experiences.
+### 5. **Payment Method Insights**
+- Sales split by **Shopify Payments**, **PayPal**, **Amazon Pay**, **Gift Cards**, and **Manual Payments**.
+- Assess how customers prefer to pay.
 
-👟 Product Category Analysis
-The dashboard showcases sales by product type, with Running Shoes, Tennis Shoes, and Walking Shoes emerging as the top sellers. Less popular items like Accessories or Water Shoes are also tracked, enabling informed product planning and stocking.
+### 6. ** Customer Behavior Funnel**
+- Compare **Single-Order vs Repeat Buyers**
+- Measure **Retention Rate, Frequency, and Value**
 
-🧠 Customer Behavior & Funnel Metrics
-Key behavioral metrics include:
+---
 
-Repeat Rate: 46%
+## 🔎 Drillthrough Feature
 
-Purchase Frequency: 1.68
-
-Customer Lifetime Value (LTV): $943.6
-
-Single vs Repeat Customers: 2,392 vs 2,039
-
-These help evaluate customer retention and the impact of loyalty strategies.
-
-🔎 Drillthrough Feature
-This report also includes an interactive Drillthrough page for deep-dive analysis. By right-clicking on a specific city, province, or product category, users can navigate to a detailed report view showing all relevant transactions filtered by the selected field. This improves data exploration, traceability, and actionability for decision-makers.
-
+The dashboard includes **Drillthrough functionality**:
+- Right-click on a city, product, or payment type to see **detailed transaction-level data** filtered by your selection.
+- Allows focused, contextual deep dives without losing the main dashboard flow.
